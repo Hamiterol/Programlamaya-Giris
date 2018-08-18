@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main()
+{
+ int a;
+ printf("Bir sayı giriniz.");
+ 
+ scanf("%d",&a);
+ prinf("girdiğiniz sayı: %d"+ a);
+ return 0;
+
+}
